@@ -22,6 +22,9 @@ YETI (Your Everyday Threat Intelligence) is an open-source platform which design
 # Installation
 ````````
 git clone https://github.com/yeti-platform/yeti-docker
+cd yeti-docker/prod
+docker compose up
+````````
 
 
 
