@@ -26,6 +26,15 @@ cd yeti-docker/prod
 docker compose up
 ````````
 
+Create an admin user 
+```````
+docker compose run --rm api create-user USERNAME PASSWORD --admin
+```````
+
+Access the gui interface
+```````````
+http://ip-address:80
+``````````
 
 
  
