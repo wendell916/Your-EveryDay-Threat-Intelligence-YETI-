@@ -35,6 +35,7 @@ Access the gui interface
 ```````````
 http://ip-address:80
 ```````````
+Use the credentials created to access the gui
 
 
  
