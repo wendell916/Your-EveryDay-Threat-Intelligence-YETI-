@@ -38,6 +38,8 @@ http://ip-address:80
 Use the credentials created to access the gui
 
 # Configuration
+Under the threat section section enable some feeds of your choice
+
 
 
  
